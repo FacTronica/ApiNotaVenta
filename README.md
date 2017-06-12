@@ -45,4 +45,7 @@ Por medio de esta API se puede realizar la conexión entre su software propio co
 <br>$_POST["ITEMS_SUBTOTAL_2"]="10000";
 </pre>
 
-
+El envío de datos debe apuntar a la siguiente url:
+<pre>
+http://190.107.177.113/~apifactronica/index.php
+</pre>
