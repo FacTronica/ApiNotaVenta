@@ -24,13 +24,13 @@ Por medio de esta API se puede realizar la conexión entre su software propio co
 <BR>// ITEM 1 CODIGO
 <br>$_POST["ITEMS_CODIGO_1"]="22040";
 <BR>// ITEM 1 NOMBRE ITEM
-<br>$_POST["ITEMS_NOMBRE_1"]="CAMARA PRO Z20";
+<br>$_POST["ITEMS_NOMBRE_1"]="ZOOM DUAL INFRAROJO WEST7";
 <BR>// ITEM 1 CANTIDAD
-<br>$_POST["ITEMS_CANTIDAD_1"]="3";
+<br>$_POST["ITEMS_CANTIDAD_1"]="4";
 <BR>// ITEM 1 UNITARIO
-<br>$_POST["ITEMS_PRECIO_1"]="3000";
+<br>$_POST["ITEMS_PRECIO_1"]="2500";
 <BR>// ITEM 1 SUBTOTAL
-<br>$_POST["ITEMS_SUBTOTAL_1"]="9000";
+<br>$_POST["ITEMS_SUBTOTAL_1"]="10000";
 <BR>// ------ ITEM 2 --------
 <BR>// ITEM 2 CODIGO
 <br>$_POST["ITEMS_CODIGO_2"]="13031";
