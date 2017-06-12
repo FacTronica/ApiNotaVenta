@@ -49,3 +49,9 @@ El envío de datos debe apuntar a la siguiente url:
 <pre>
 http://190.107.177.113/~apifactronica/index.php
 </pre>
+
+<br>
+<h1>Ejemplos de Uso</h1>
+<pre>
+...
+</pre>
