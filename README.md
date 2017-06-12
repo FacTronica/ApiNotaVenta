@@ -12,6 +12,7 @@ Por medio de esta API se puede realizar la conexión entre su software propio co
 <br>Generar el envio de datos POST.
 <br>
 <br>Variables requeridas:
+<?php 
 <BR>// TOKEN DE ACCESO AL SISTEMA
 <br>$_POST["TOKEN"]="7XW453SJ339F";
 <BR>// ID DEL PEDIDO CREADO EN PRESTASHOP
@@ -42,5 +43,6 @@ Por medio de esta API se puede realizar la conexión entre su software propio co
 <br>$_POST["ITEMS_PRECIO_2"]="5000";
 <BR>// ITEM 2 SUBTOTAL
 <br>$_POST["ITEMS_SUBTOTAL_2"]="10000";
+?>
 
 
